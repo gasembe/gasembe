@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gasembe
-- 👀 I’m interested in data science, machine learning & software engineering
-- 🌱 I’m currently learning graph nalytics
-- 💞️ I’m looking to collaborate on data and analytics projects
+- 👀 I’m interested in data engineering, machine learning & software engineering
+- 🌱 I’m currently learning modern data stack tools and their application in a data lakehouse ecosystem 
+- 💞️ I’m looking to collaborate on data management and analytics projects
 - 📫 How to reach me twitter @gasadam, email: abdiadam336@hotmail.com
 
 <!---
